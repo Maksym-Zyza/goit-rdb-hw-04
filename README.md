@@ -1,6 +1,4 @@
-# goit-rdb-hw-04
-
-## 3
+#### all code task 3
 
 ```sql
 SELECT 
